@@ -1,6 +1,5 @@
 from turtle import *
 
-speed(99999)
 #მიწის გაკეთება
 color("white")
 goto(0, -100)
