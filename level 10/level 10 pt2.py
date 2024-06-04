@@ -9,7 +9,7 @@ age = int(input("enter your age: "))
 if int(age > 18):
    print("you are an adult")
 elif age < 18:
-   print("you are not old enough")
+   print("still a kid")
 
 num1 = int(input("enter number from 1 to 7: "))
 
