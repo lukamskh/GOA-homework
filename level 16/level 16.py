@@ -3,4 +3,5 @@ fav_music = ["c418 clark", "six days", "7years"]
 combined = fav_music + movies
 print(len(combined))
 print(combined)
-print(combined[0,5])
+print("favorite song: " + combined[0])
+print("favorite movie: " + combined[6])
